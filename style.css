@@ -185,6 +185,12 @@ body{
 }
 
 @media (min-width: 71.875rem){
+    .title{
+        top:6.375rem;
+        width: 33.75rem;
+        border: none;
+    }
+
     .card{
             width: 69.625rem;
             position: absolute;
